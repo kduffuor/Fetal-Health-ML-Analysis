@@ -1,0 +1,15 @@
+[
+  "abnormal_short_term_variability",
+  "mean_value_of_short_term_variability",
+  "percentage_of_time_with_abnormal_long_term_variability",
+  "histogram_mean",
+  "histogram_mode",
+  "histogram_median",
+  "prolongued_decelerations",
+  "mean_value_of_long_term_variability",
+  "accelerations",
+  "histogram_variance",
+  "baseline value",
+  "uterine_contractions",
+  "histogram_width"
+]
